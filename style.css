@@ -1,0 +1,22 @@
+table{
+    border: 1px solid  black;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid  black;
+}
+tr{
+    border: 1px solid  black;
+}
+th{
+    border: 1px solid  black;
+}
+caption {
+    font-size: 30px;
+}
+.Headline {
+    height: 50px;
+    width: 340px;
+    background-color: rgb(238, 198, 35);
+    color: rgb(72, 72, 185);
+}
